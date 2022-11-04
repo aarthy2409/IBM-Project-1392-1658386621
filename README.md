@@ -31,7 +31,7 @@
 <hr>
 
 
-[PHASE 01 COMPLETION](http://169.51.204.215:30106/)
+[PROJECT COMPLETION](http://169.51.204.222:31224/)
 
 <hr>
 
@@ -181,7 +181,11 @@ This Application has been developed to help the customer in processing their com
 - [x] Milestone and Activity List
 - [x] Sprint Delivery plan
 
-
+# PROJECT DEVELOPMENT 
+- [x] SPRINT 01
+- [x] SPRINT 02
+- [x] SPRINT 03
+- [x] SPRINT 04
 
 <hr>
 
