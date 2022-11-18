@@ -31,5 +31,4 @@ and then go to search and find kubernetes services
 change standard to free
 -- create
 
-remaining
-.. will upload soon
+and continue similiar like a kubernetes in local push document
